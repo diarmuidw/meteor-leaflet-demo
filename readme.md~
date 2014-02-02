@@ -1,5 +1,5 @@
 # Leaflet for Meteor Demo
-I changed this so that it is centered on Dublin. 
+
 ## How to install 
 1. npm install -g meteorite (if not already installed)
 2. git clone https://github.com/bevanhunt/meteor-leaflet-demo
